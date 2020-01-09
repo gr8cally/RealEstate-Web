@@ -1,0 +1,65 @@
+
+.fttxt0{
+        margin-bottom: 0px;
+        font-size: 18px;
+        font-family: Arapey, Georgia, "Times New Roman", Times, serif;
+        font-style: italic;
+        margin: 0px 0px 15px;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        text-align: center;
+        -webkit-font-smoothing: antialiased;
+        font-weight: 200;
+      }
+
+      section{
+        width: 100vw;
+        height: 90vh;
+        
+      }
+
+      .fttxt{
+        font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 200;
+      line-height: 1.2;
+      font-size: 10px;
+      text-align: center;
+      -webkit-font-smoothing: antialiased;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      }
+
+      .fttxt1{
+        font-size: 18px;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 200;
+        line-height: 1.2;
+        text-align: center;
+        -webkit-font-smoothing: antialiased; */
+      }
+
+      .social-icons{
+        text-align: center;
+      }
+
+      .social-icons li{
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select:none;
+        -moz-user-select:none;
+      }
+
+      .social-icons li a{
+        border-bottom: none;
+      }
+
+      .social-icons li img{
+        width: 70px;
+        height: 70px;
+        margin-right: 20px;
+      }
